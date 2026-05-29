@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=24036401&assignment_repo_type=AssignmentRepo)
 # 🚀 Examen - Unidad 3: Control de Clima Automatizado en Invernaderos de Berries 🍓🌡️
 
 **Objetivo:** 🎯 Dominar la implementación de estructuras de control de flujo en Java utilizando **ciclos aninados (`for`, `while` o `do-while`)**, **estructuras selectivas múltiples y anidadas**, lógica de banderas (flags), contadores, acumuladores y validación estricta de entradas por consola.
